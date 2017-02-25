@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "621463392608",
+    "project_id": "gopettingproject"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621463392608:android:80f769a96fcffe51",
+        "android_client_info": {
+          "package_name": "com.rson.brothers.gopettingproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621463392608-asfo0rbdps53ffd5kga3pcueg82sag2e.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "621463392608-bne3lujn2t8b07gagi4gqngqov7r3i3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rson.brothers.gopettingproject",
+            "certificate_hash": "aae12401d2d64850c40b9364e74ec40811428022"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0z9nBpJk3CMOHi3FV0XRctJYbKkofOGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
